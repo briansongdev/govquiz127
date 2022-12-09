@@ -291,7 +291,7 @@ export default function Home({ result }) {
             </>
           )}
         </Container>
-        <Text>Made by Brian</Text>
+        <Text textAlign="right">brian</Text>
       </VStack>
     </Container>
   );
