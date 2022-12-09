@@ -10,6 +10,7 @@
     "@chakra-ui/react": "^2.4.2",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
+    "@fontsource/alex-brush": "^4.5.9",
     "@fontsource/ibm-plex-sans": "^4.5.13",
     "axios": "^1.2.1",
     "framer-motion": "^6.5.1",

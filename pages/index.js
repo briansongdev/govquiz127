@@ -291,8 +291,10 @@ export default function Home({ result }) {
             </>
           )}
         </Container>
-        <Text textAlign="right">brian</Text>
       </VStack>
+      <Text textAlign="right" fontSize="30px" fontFamily="Alex Brush">
+        created by brian
+      </Text>
     </Container>
   );
 }

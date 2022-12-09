@@ -32,7 +32,7 @@ export default function CustomSpinner({ isOpen, onOpen, onClose, extraText }) {
               <Center>
                 <Text fontWeight="bold">{extraText}</Text>
               </Center>
-              <Lottie animationData={check} />
+              <Lottie animationData={check} loop={0} />
             </AlertDialogBody>
           </AlertDialogContent>
         </AlertDialogOverlay>
